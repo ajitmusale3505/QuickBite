@@ -1,0 +1,49 @@
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Application secrets
+application.properties
+
+# Compiled files
+*.class
+
+# Logs
+*.log
+
+# Maven
+target/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ / VS Code
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Application secrets
+application.properties

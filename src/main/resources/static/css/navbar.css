@@ -1,0 +1,98 @@
+/* ===== RESET ===== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ===== NAVBAR ===== */
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 12px 30px;
+    background: #ffffff;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+/* ===== LOGO ===== */
+.logo {
+    font-size: 20px;
+    font-weight: 700;
+    color: #ff6b35;
+    text-decoration: none;
+}
+
+/* ===== SEARCH ===== */
+.nav-center {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.search-form {
+    display: flex;
+    width: 60%;
+    max-width: 400px;
+}
+
+.search-form input {
+    flex: 1;
+    padding: 8px 10px;
+    border-radius: 6px 0 0 6px;
+    border: 1px solid #ddd;
+    outline: none;
+}
+
+.search-form input:focus {
+    border-color: #ff6b35;
+}
+
+.search-form button {
+    padding: 8px 12px;
+    border: none;
+    background: #ff6b35;
+    color: white;
+    border-radius: 0 6px 6px 0;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.search-form button:hover {
+    background: #ff3d00;
+}
+
+/* ===== RIGHT LINKS ===== */
+.nav-right {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.nav-right a {
+    text-decoration: none;
+    color: #333;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.nav-right a:hover {
+    color: #ff6b35;
+}
+
+/* ===== LOGOUT BUTTON ===== */
+.logout-btn {
+    padding: 6px 12px;
+    background: #ff6b35;
+    color: white !important;
+    border-radius: 6px;
+}
+
+.logout-btn:hover {
+    background: #ff3d00;
+}
