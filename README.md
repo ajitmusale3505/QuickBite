@@ -514,7 +514,7 @@ Fork the repository to your own GitHub account.
 
 ### 2. Clone Your Fork
 ```bash
-git clone <YOUR_FORK_URL>
+git clone https://github.com/ajitmusale3505/QuickBite.git
 ```
 
 ### 3. Create a Feature Branch
