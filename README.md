@@ -492,16 +492,16 @@ GitHub will render images directly from the README using paths such as:
 
 | Screen | Preview |
 |--------|---------|
-| Login | `![QuickBite Login](screenshots/login.png)` |
-| Customer Dashboard | `![Customer Dashboard](screenshots/user-dashboard.png)` |
-| Restaurant Menu | `![Restaurant Menu](screenshots/restaurant-menu.png)` |
-| Cart | `![Shopping Cart](screenshots/cart.png)` |
-| Checkout | `![Checkout](screenshots/checkout.png)` |
-| Order Success | `![Order Success](screenshots/order-success.png)` |
-| My Orders | `![My Orders](screenshots/my-orders.png)` |
-| Owner Dashboard | `![Owner Dashboard](screenshots/owner-dashboard.png)` |
-| Admin Dashboard | `![Admin Dashboard](screenshots/admin-dashboard.png)` |
-| Offer Management | `![Offer Management](screenshots/admin-offers.png)` |
+| Login | ![QuickBite Login](screenshots/login.png) |
+| Customer Dashboard | ![Customer Dashboard](screenshots/user-dashboard.png) |
+| Restaurant Menu | ![Restaurant Menu](screenshots/restaurant-menu.png) |
+| Cart | ![Shopping Cart](screenshots/cart.png) |
+| Checkout | ![Checkout](screenshots/checkout.png) |
+| Order Success | ![Order Success](screenshots/order-success.png) |
+| My Orders | ![My Orders](screenshots/my-orders.png) |
+| Owner Dashboard | ![Owner Dashboard](screenshots/owner-dashboard.png) |
+| Admin Dashboard | ![Admin Dashboard](screenshots/admin-dashboard.png) |
+| Offer Management | ![Offer Management](screenshots/admin-offers.png) |
 
 ---
 
